@@ -1,0 +1,39 @@
+/* Copyright 2023 amirrajabzadeh.ir */
+
+/* ======================= VARIABLE CSS ======================= */
+
+.light-theme{
+    /* ======================= light theme colors ======================= */
+
+    --background-primary: hsl(0, 0%, 100%);
+    --background-secondary: hsl(210, 100%, 98%);
+
+    --acction-primary: hsl(213, 49%, 98%);
+    --acction-secondary: hsl(210, 56%, 94%);
+
+    --forground-primary: hsl(218, 24%, 18%);
+    --forground-secondary: hsl(216, 12%, 47%);
+    --forground-tertiary: hsl(214, 22%, 70%);
+
+
+
+    --accent: hsl(229, 94%, 62%);
+}
+
+.dark-theme{
+    /* ======================= light theme colors ======================= */
+
+    --background-primary: hsl(216, 32%, 23%);
+    --background-secondary: hsl(210, 100%, 98%);
+
+    --acction-primary: hsl(213, 49%, 98%);
+    --acction-secondary: hsl(210, 56%, 94%);
+
+    --forground-primary: hsl(218, 24%, 18%);
+    --forground-secondary: hsl(216, 12%, 47%);
+    --forground-tertiary: hsl(214, 22%, 70%);
+
+
+
+    --accent: hsl(229, 94%, 62%);
+}
